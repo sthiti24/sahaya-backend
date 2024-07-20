@@ -28,15 +28,18 @@ Sahaya aims to reduce food waste and help those in need by connecting food donor
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/sthiti24/sahaya-backend.git
-cd sahaya-backend
+1. Clone the repository:-
+   git clone https://github.com/sthiti24/sahaya-backend.git
+   cd sahaya-backend
 
-2. Install dependencies: npm install
+2. Install dependencies:-
+   npm install
 
-3. Create a `.env` file in the root directory and add the following variables:
+3. Create a `.env` file in the root directory and add the following variables:-
    PORT=5000
    MONGODB_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
 
-4. Start the server: npm start
+4. Start the server:-
+   npm start
    The server should now be running on `http://localhost:3000`.
